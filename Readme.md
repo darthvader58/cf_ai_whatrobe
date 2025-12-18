@@ -1,5 +1,7 @@
 # Whatrobe - Your AI-Powered Wardrobe Assistant
 
+Original Project is available at <a href="github.com/darthvader58/whatrobe">Whatrobe</a> and deployed at <a href="mywhatrobe.vercel.app">mywhatrobe.vercel.app</a>
+
 > *Never wonder what to wear again.*
 
 **Whatrobe** is like having a personal stylist in your pocket, but better – it never judges your 3 AM outfit choices and always knows exactly what's in your closet. Built with modern web technologies and powered by AI, it transforms the daily "what should I wear?" struggle into a fun, swipe-based experience.
